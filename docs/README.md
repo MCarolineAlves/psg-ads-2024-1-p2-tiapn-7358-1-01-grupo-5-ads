@@ -21,9 +21,9 @@ Professores:
 
 ---
 
-_Curso de Engenharia de Software
+_Curso Superior de Tecnologia em Análise e Desenvolvimento de Sistemas
 
-_Instituto de Informática e Ciências Exatas – Pontifícia Universidade Católica de Minas Gerais (PUC MINAS), Belo Horizonte – MG – Brasil_
+_Instituto de Ciências Exatas e Informática – Pontifícia Universidade Católica de Minas Gerais (PUC MINAS), Belo Horizonte – MG – Brasil_
 
 ---
 
