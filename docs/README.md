@@ -31,7 +31,7 @@ _**Resumo**. Escrever aqui o resumo. O resumo deve contextualizar rapidamente o 
 mostrar algum resultado relevante do trabalho (até 10 linhas)._
 
 ---
-
+<a href="docs/01-Documentação de Contexto.md"> Documentação de Contexto</a>
 
 ## 1. Introdução
 
