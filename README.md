@@ -30,9 +30,9 @@ Assim que a primeira versão do sistema estiver disponível, deverá complementa
 <li><a href="docs/02-Especificação do Projeto.md"> Especificação do Projeto</a></li>
 <li><a href="docs/03-Modelagem do Processo de Negocio.md"> Modelagem do Processo de Negocio</a></li>
 <li><a href="docs/04-Projeto da solucao.md"> Projeto da solução</a></li>
-<li><a href="docs/05-Arquitetura da Solução.md"> Arquitetura da Solução</a></li>
-<li><a href="docs/06-Template Padrão da Aplicação.md"> Template Padrão da Aplicação</a></li>
-<li><a href="docs/07-Programação de Funcionalidades.md"> Programação de Funcionalidades</a></li>
+<li><a href="docs/05-Interface do Sistema.md"> Interface do Sistema</a></li>
+<li><a href="docs/06-Conclusao.md"> Conclusão</a></li>
+<li><a href="docs/07-REferencias.md"> Referências</a></li>
 <li><a href="docs/08-Plano de Testes de Software.md"> Plano de Testes de Software</a></li>
 <li><a href="docs/09-Registro de Testes de Software.md"> Registro de Testes de Software</a></li>
 <li><a href="docs/10-Plano de Testes de Usabilidade.md"> Plano de Testes de Usabilidade</a></li>
