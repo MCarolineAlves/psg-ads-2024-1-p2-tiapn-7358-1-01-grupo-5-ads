@@ -50,6 +50,19 @@ O **problema** pode ser algo vivido em uma empresa específica. Neste caso, o al
 o cenário de problema da empresa. A empresa só deve ser citada explicitamente se o aluno tiver autorização 
 para tal._
 
+Nesse momento você deve apresentar o problema que a sua aplicação deve  resolver. No entanto, não é a hora de comentar sobre a aplicação.
+
+Descreva também o contexto em que essa aplicação será usada, se  houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de  fato existir, pois ainda não é a hora de apresentar requisitos  detalhados ou projetos.
+
+Nesse momento, o grupo pode optar por fazer uso  de ferramentas como Design Thinking, que permite um olhar de ponta a ponta para o problema.
+
+> **Links Úteis**:
+> - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
+> - [Matriz Certezas, Suposições e Dúvidas](https://medium.com/educa%C3%A7%C3%A3o-fora-da-caixa/matriz-certezas-suposi%C3%A7%C3%B5es-e-d%C3%BAvidas-fa2263633655)
+> - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
+
+
+
 ### 1.3 Objetivo geral
 
 _O aluno deve escrever um pequeno parágrafo ou frase com o **objetivo geral** do trabalho. 
@@ -64,6 +77,29 @@ concentrar sua prática investigativa, ou como você irá aprofundar seu trabalh
 
 _Mostre também as **justificativas** para o 
 desenvolvimento do seu trabalho e, caso deseje, destaque alguma contribuição do trabalho._
+
+
+## Objetivos
+
+Aqui você deve descrever os objetivos do trabalho indicando que o objetivo geral é desenvolver um software para solucionar o problema apresentado acima. 
+
+Apresente também alguns (pelo menos 2) objetivos específicos dependendo de onde você vai querer concentrar a sua prática investigativa, ou como você vai aprofundar no seu trabalho.
+ 
+> **Links Úteis**:
+> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
+
+
+### 1.3 Objetivo geral
+
+_O aluno deve escrever um pequeno parágrafo ou frase com o **objetivo geral** do trabalho. 
+O objetivo deve ser bem direto, específico e definido com verbos de ação (elaborar, propor, avaliar, comparar, desenvolver, etc.). No caso específico deste projeto, o objetivo deste trabalho é desenvolver um sistema para automação de processos para um problema específico._
+
+#### 1.3.1 Objetivos específicos
+
+_Apresente também alguns (pelo menos 2) **objetivos específicos** dependendo de onde você vai querer 
+concentrar sua prática investigativa, ou como você irá aprofundar seu trabalho._
+
+
 
 ## 2. Participantes do processo
 
