@@ -72,7 +72,7 @@ Apresente também alguns (pelo menos 2) objetivos específicos dependendo de ond
 > - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
 
 
-### 1.3.1 Objetivo geral
+#### 1.3.1 Objetivo geral
 
 _O aluno deve escrever um pequeno parágrafo ou frase com o **objetivo geral** do trabalho. 
 O objetivo deve ser bem direto, específico e definido com verbos de ação (elaborar, propor, avaliar, comparar, desenvolver, etc.). No caso específico deste projeto, o objetivo deste trabalho é desenvolver um sistema para automação de processos para um problema específico._
