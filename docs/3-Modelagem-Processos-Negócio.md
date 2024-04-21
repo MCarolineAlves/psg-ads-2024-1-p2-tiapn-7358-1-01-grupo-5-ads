@@ -1,4 +1,4 @@
-## 3. Modelagem do processo de negócio
+## 3. Modelagem dos processos de negócio
 
 
 > **Links Úteis**:
