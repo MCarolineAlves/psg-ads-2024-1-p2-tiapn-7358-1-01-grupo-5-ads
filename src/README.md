@@ -1,7 +1,5 @@
 # Código do projeto
 
 
-[Código do front-end](../src/front) -- repositório do código do front-end
-
-[Código do back-end](../src/back)  -- repositório do código do back-end
-
+Aqui devem ficar os arquivos-fonte do projeto: HTML, CSS, Javascript, imagens, e outros necessários para o 
+funcionamento do sistema.
