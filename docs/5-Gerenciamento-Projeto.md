@@ -51,16 +51,6 @@ Legenda:
 - ⌛: atrasado
 - ❌: não iniciado
 
-## Ferramentas
-
-> Liste quais ferramentas foram empregadas no desenvolvimento do  projeto, justificando a escolha de cada uma delas. Use o formato abaixo como exemplo.
-
-As ferramentas empregadas no projeto são:
-
-- Editor de código.
-- Ferramentas de diagramação.
-- Frameworks 
-- Outras ferramentas externas
 
 
 ## Links Úteis
