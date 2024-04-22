@@ -2,6 +2,18 @@
 
 <span style="color:red">Pré-requisitos: <a href="03-Modelagem do Processo de Negocio.md"> Modelagem do Processo de Negocio</a></span>
 
+## Arquitetura da solução
+
+
+......  COLOQUE AQUI O SEU TEXTO E O DIAGRAMA DE ARQUITETURA .......
+
+ Inclua um diagrama da solução e descreva os módulos e as tecnologias
+ que fazem parte da solução. Discorra sobre o diagrama.
+ 
+ **Exemplo do diagrama de Arquitetura**:
+ 
+ ![Exemplo de Arquitetura](./images/arquitetura-exemplo.png)
+ 
 
 ### 4.1. Protótipos de telas
 
