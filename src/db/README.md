@@ -1,3 +1,3 @@
 ## Arquivo .sql
 
-Adicione aqui os scripts sql.
+Adicione aqui os scripts SQL.
