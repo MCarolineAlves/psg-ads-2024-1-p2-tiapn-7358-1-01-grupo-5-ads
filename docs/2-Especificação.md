@@ -40,12 +40,7 @@ Apresente aqui as histórias de usuário que são relevantes para o projeto de s
 > - [Histórias de Usuários: mais exemplos](https://www.reqview.com/doc/user-stories-example.html)
 > - [9 Common User Story Mistakes](https://airfocus.com/blog/user-story-mistakes/)
 
-## Modelagem do Processo de Negócio 
 
-### Análise da Situação Atual
-
-Apresente aqui os problemas existentes que viabilizam sua proposta. Apresente o modelo do sistema como ele funciona hoje. Caso sua proposta seja inovadora e não existam processos claramente definidos, apresente como as tarefas que o seu sistema pretende implementar são executadas atualmente, mesmo que não se utilize tecnologia computacional. 
- 
 
 ## Requisitos
 
