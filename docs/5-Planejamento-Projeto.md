@@ -1,4 +1,4 @@
-# 5. Gerenciamento do Projeto
+# 5. Planejamento do Projeto
 
 > Aqui será feito o gerenciamento das tarefas de implementação do projeto.
 
