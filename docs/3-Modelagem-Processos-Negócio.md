@@ -1,4 +1,4 @@
-## 3. Modelagem dos processos de negócio
+## 3. Modelagem dos Processos de Negócio
 
 
 > **Links Úteis**:
@@ -12,7 +12,7 @@ _Apresente uma descrição textual de como os sistemas atuais resolvem o problem
 Com o tema do projeto definido, escolham alguns processos neste contexto de negócios. Para ilustrar potenciais ganhos com a automatização, imaginem processos manuais, ineficientes e/ou com muitas idas e vindas, gerando, assim, retrabalho.
 Colem aqui os modelos dos processos atuais (modelo AS-IS), elaborados com o apoio da ferramenta baseada em BPMN utilizada na disciplina.
 
-### 3.2. Descrição geral da proposta
+### 3.2. Descrição geral da proposta (Modelagem TO BE)
 
 Tendo identificado os gargalos dos modelos AS IS, apresentem uma descrição da proposta de solução, buscando maior eficiência com a introdução da tecnologia. Abordem também os limites dessa solução e o seu alinhamento com as estratégias e objetivos do contexto de negócio escolhido. 
 Colem aqui os modelos da solução proposta (modelo TO BE) elaborados com o apoio da ferramenta baseada em BPMN utilizada na disciplina.
