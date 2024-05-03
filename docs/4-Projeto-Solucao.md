@@ -80,7 +80,8 @@ As referências abaixo irão auxiliá-lo na geração do artefato “Esquema Rel
 
 #### 4.3.3 Modelo Físico
 
-Entregar um arquivo banco.sql contendo os scripts de criação das tabelas do banco de dados. Este arquivo deverá ser incluído dentro da pasta src\bd.
+Insira aqui o script de criação das tabelas do banco de dados.
+Este arquivo deverá ser incluído dentro da pasta src\bd.
 
 
 
